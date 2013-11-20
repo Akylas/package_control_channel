@@ -2,7 +2,7 @@
 	"schema_version": "1.0.0",
 	"packages": [
 		{
-			"name": "sublime-ti-build",
+			"name": "Titanium Build",
 			"description": "Build and execute Titanium Mobile projects",
 			"author": "MattTuttle",
 			"details": "https://github.com/Akylas/sublime-ti-build",
