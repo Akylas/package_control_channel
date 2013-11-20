@@ -1,0 +1,19 @@
+{
+	"schema_version": "2.0.0",
+	"packages": [
+		{
+			"name": "MakeTi",
+			"description": "Build and execute Titanium Mobile projects",
+			"author": "akylas",
+			"details": "https://github.com/farfromrefug/MakeTi",
+			"homepage": "https://github.com/farfromrefug/MakeTi",
+			"labels": ["build make titanium mobile"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/farfromrefug/MakeTi/tree/master"
+				}
+			]
+		}
+	]
+}
