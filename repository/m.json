@@ -53,6 +53,16 @@
 			]
 		},
 		{
+			"name": "MakeTi",
+			"details": "https://github.com/farfromrefug/MakeTi",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/farfromrefug/MakeTi/tree/master"
+				}
+			]
+		},
+		{
 			"name": "Mako",
 			"details": "https://github.com/marconi/mako-tmbundle",
 			"releases": [
